@@ -463,49 +463,6 @@ article .categories > li > a {
 /* Footer styles
 ------------------------------------------------------------------ */
 
-/* #footer {
-  background-color: #333;
-  color: white;
-  padding: 30px 0;
-  display: flex;
-}
-
-#footer a {
-  color: crimson;
-}
-
-#footer .top {
-  margin-bottom: 30px;
-}
-
-#footer .bottom {
-  color: #777;
-  font-size: 12px;
-  text-align: center;
-}
-
-#footer .bottom p {
-  border-top: solid 1px #222;
-  margin-bottom: 0;
-  padding-top: 20px;
-}
-
-#footer .social {
-  margin: 0;
-  padding: 0;
-}
-
-#footer .social > li {
-  list-style: none;
-  margin-bottom: 5px;
-}
-
-#footer .social > li > .fa {
-  margin-right: 5px;
-  min-width: 20px;
-  text-align: center;
-} */
-
 .left-sidebar-widget-container ul {
   padding-left: 0;
 }
